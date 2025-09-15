@@ -55,6 +55,9 @@ A comprehensive Next.js application for managing real estate buyer leads with CR
 **ESLint** - Code linting
 **Prisma Studio** - Database management GUI
 
+## Demo Project
+https://github.com/user-attachments/assets/a1180981-413b-4570-a7c7-f5373c9c2823
+
 ## Demo System
 
 The application includes a complete demo system for easy evaluation:
