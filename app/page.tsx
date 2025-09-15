@@ -35,7 +35,7 @@ export default async function HomePage() {
   const user = await getCurrentUser();
 
   if (!user) {
-    redirect("/demo-login");
+    redirect("/auth/login");
   }
 
   const stats = await getDashboardStats(user.id);

@@ -121,11 +121,6 @@ createdAt, updatedAt (Timestamps)
 **Cascade Deletes**: Maintains data integrity
 **JSONB Storage**: Flexible history tracking
 
-## Project Deplyoment
-
-**Project Demo**
-[Click-Here]()
-
 #### Installation Steps
 
 1. **Clone and Install**
